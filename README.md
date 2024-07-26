@@ -24,7 +24,7 @@
 
 | N° | Projects |
 | ------- | -------- |
-| 01 | <a href="">soon!</a> | 
+| 01 | <a href="https://github.com/nyxtais/JavaScript/tree/491b0d3f13953a0b4fa281c18314aee2ea13b777/jsstudy/js7p">Counter Program</a> | 
 | 02 | <a href="">soon!</a> |
 | 03 | <a href="">soon!</a> |
 | 04 | <a href="">soon!</a> |
