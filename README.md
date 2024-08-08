@@ -33,4 +33,4 @@
 | 07 | <a href="">soon!</a> |
 
 ##
-★ Video: <a href="https://youtu.be/lfmg-EJ8gm4?si=bcKfnL9e9akEB267">study</a>
+
